@@ -1,0 +1,1 @@
+Aún no he planificado el readme :D, voy a probar si puedo generar un issue asignandome a mi mismo crear  el README.md para generar contenido y a la vez demostrar un flujo de trabajo con issues.
